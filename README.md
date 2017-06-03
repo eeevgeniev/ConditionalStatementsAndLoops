@@ -6,3 +6,4 @@ Edited from master branch.
 Hello from develop branch.
 Changes with GitBash.
 Some new changes with GitBash.
+Another changes.
