@@ -5,3 +5,4 @@ We resolved the confict.
 Edited from master branch.
 Hello from develop branch.
 Changes with GitBash.
+Another changes.
