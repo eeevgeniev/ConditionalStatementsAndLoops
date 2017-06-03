@@ -8,3 +8,4 @@ Changes with GitBash.
 Some new changes with GitBash.
 Another changes.
 Changes to master.
+Changes for merge.
