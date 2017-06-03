@@ -1,3 +1,4 @@
 # ConditionalStatementsAndLoops
 Softuni - Conditional statements and loops
-This will make conflict.
+Making some changes.
+We resolved the confict.
