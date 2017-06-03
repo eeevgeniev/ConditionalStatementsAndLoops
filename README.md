@@ -7,3 +7,4 @@ Hello from develop branch.
 Changes with GitBash.
 Some new changes with GitBash.
 Another changes.
+Changes to master.
